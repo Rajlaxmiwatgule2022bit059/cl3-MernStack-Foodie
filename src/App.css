@@ -1,0 +1,43 @@
+/* Custom Navbar Styling */
+.navbar-custom {
+  background-color: #202c3b !important; /* Dark navy-blue */
+  padding: 0.8rem 2rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid #444;
+}
+
+.navbar-brand {
+  font-family: 'NHaasGroteskDSPro-65Md', sans-serif;
+  font-size: 2rem;
+  color: #ffcc70 !important;
+  letter-spacing: 1px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  color: #ffffff !important;
+  margin: 0 1rem;
+}
+
+.nav-link:hover {
+  color: #ffcc70 !important;
+  text-decoration: underline;
+}
+
+.btn-custom {
+  background-color: #ffcc70;
+  color: #202c3b;
+  font-weight: bold;
+  border: none;
+}
+
+.btn-custom:hover {
+  background-color: #ffd98d;
+  color: #000;
+}
+/* Custom Navbar Color */
+.navbar-custom {
+  background-color: #1c2331 !important; /* Dark navy or change to any hex color */
+  padding: 0.8rem 2rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
